@@ -1,0 +1,5 @@
+# Client VPN profiles: not secret, but organisation-specific. Keep them out.
+*.ovpn
+
+__pycache__/
+*.py[cod]
